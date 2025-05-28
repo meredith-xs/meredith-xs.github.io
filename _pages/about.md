@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with a doctoral degree from Tsinghua University(Beijing, PR China) in 2025. I am an expert on the modelling and the simulation of compressible two-phase multi-component reactive flows, with applications in both fundamental research and engineering scenarios:
+<div class="justified-text">
+  I graduated with a doctoral degree from Tsinghua University(Beijing, PR China) in 2025. I am an expert on the modelling and the simulation of compressible two-phase multi-component reactive flows, with applications in both fundamental research and engineering scenarios:
+</div>
+
 - Diffuse-interface methods
 - Droplet aerobreakup(Shock/Detonation)
 - Gaseous/droplet-laden two-phase detonation
