@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "About me"
+title: "Brief Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I graduated with a doctoral degree from the School of Aerospace Engineering at Tsinghua University (Beijing, PR China) in 2025. I am an expert on the modelling and the simulation of compressible two-phase multi-component reactive flows, with applications in both fundamental research and engineering scenarios:
+- Diffuse-interface methods
+- Droplet aerobreakup(Shock/Detonation)
+- Adaptive mesh refinement (tree-based)
+- Underwater shock-bubble interactions
 
 Research interests
 ======
