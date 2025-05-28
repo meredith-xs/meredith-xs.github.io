@@ -32,12 +32,12 @@ author:
 # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=SlvX3G0AAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0916-3001"
-  semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : https://www.researchgate.net/profile/Sheng_Xu34
+  googlescholar    : "https://scholar.google.com/citations?user=SlvX3G0AAAAJ&hl=en"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  impactstory      : # URL
+  semantic         : # URL
   scopus           : # URL
 
   # Repositories and software development
