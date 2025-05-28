@@ -23,7 +23,10 @@ author:
   # Biographic information
   avatar           : "profilexs.png"
   name             : "Sheng Xu"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : |
+     - Compressible two-phase flow
+    - Detonation flow
+    - Phase transition
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : https://meredith-xs.github.io
