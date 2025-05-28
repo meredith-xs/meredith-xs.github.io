@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Overview"
 title_separator          : "-"
 name                     : &name "Sheng Xu"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "meredith-xs/meredith-xs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profilexs.png"
+  avatar           : "profilexs.png"
   name             : "Sheng Xu"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
