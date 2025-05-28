@@ -27,9 +27,7 @@ author:
   compressible two-phase flow  
   drop/bubble dynamics  
   curved shock wave  
-  gaseous detonation  
-  immersed boundary  
-  adaptive mesh refinement
+  gaseous detonation
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : https://meredith-xs.github.io
