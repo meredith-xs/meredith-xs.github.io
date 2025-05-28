@@ -28,7 +28,8 @@ author:
   drop/bubble dynamics  
   curved shock wave  
   gaseous detonation  
-  phase transition
+  immersed boundary  
+  adaptive mesh refinement
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : https://meredith-xs.github.io
