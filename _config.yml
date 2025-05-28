@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profilexs.png"
   name             : "Sheng Xu"
-  bio              : |
-    - Compressible two-phase flow
-    - Detonation flow
+  bio              : |  
+    - Compressible two-phase flow  
+    - Detonation flow  
     - Phase transition
   location         : "Beijing"
   employer         : "Tsinghua University"
