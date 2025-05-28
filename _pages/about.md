@@ -24,11 +24,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Education
 ======
 - **2020.09 - 2025.06**  
-  Tsinghua University, School of Aerospace Engineering,
-  Advisor: Prof. Bing Wang,
-  Ph.D
+  Tsinghua University, School of Aerospace Engineering,  
+  Advisor: Prof. Bing Wang,  
+  Doctoral degree
 
 - **2016.09 - 2020.06**  
-  Huazhong University of Science and Technology, School of Aerospace Engineering,
-  Major: Aircraft Design and Engineering,
-  Bachelor
+  Huazhong University of Science and Technology, School of Aerospace Engineering,  
+  Major: Aircraft Design and Engineering,  
+  Bachelor degree
