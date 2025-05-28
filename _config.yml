@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sheng Xu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "Ph.D."  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Beijing"
+  employer         : "Tsinghua University"
+  uri              : https://meredith-xs.github.io
+  email            : "meredith.xs@163.com" 
 
   # Academic websites
   academia         : # URL
