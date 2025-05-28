@@ -23,10 +23,7 @@ author:
   # Biographic information
   avatar           : "profilexs.png"
   name             : "Sheng Xu"
-  bio              : |
-    - Compressible two-phase flow
-    - Detonation flow
-    - Phase transition
+  bio              : "compressible two-phase modeling; drop/bubble dynamics; curved shock wave; gaseous detonation; phase transition"
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : https://meredith-xs.github.io
